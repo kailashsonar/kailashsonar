@@ -27,7 +27,11 @@ MongoDB | Express.js | React.js | Node.js | JWT | REST APIs
 
 ## 🌐 Live Projects:
 - Tic-Tac-Toe: https://xo-battlegrid.netlify.app  
-- Simon Game: https://mindtapper.netlify.app  
+- Simon Game: https://mindtapper.netlify.app
+
+## 📂 Portfolio & GitHub:
+- Portfolio: https://kailash-developer-portfolio.netlify.app/  
+- GitHub: https://github.com/kailashsonar  
 
 ## 📫 Connect with me:
 - LinkedIn: https://www.linkedin.com/in/kailash-sonar-709956311/  
