@@ -2,7 +2,7 @@
 🚀 MERN Stack Developer  
 
 ## 💻 Tech Stack:
-MongoDB | Express.js | React.js | Node.js | JWT | REST APIs  
+JavaScript (ES6+) | TypeScript | MongoDB | Express.js | React.js | Node.js | JWT | REST APIs  
 
 ## 🔥 What I Do:
 - Build scalable full-stack web applications  
